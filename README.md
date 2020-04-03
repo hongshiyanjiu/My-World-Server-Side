@@ -1,2 +1,4 @@
 # My-World-Server-Side
-Open My World Server-side Opener
+My World Server
+Core and opening documents
+And plug-in files
