@@ -1,2 +1,1 @@
-# My-World-Server-Side
-Open My World Server-side Opener
+#  My World Server core files and Bat openserver files and plug-ins
